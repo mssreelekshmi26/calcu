@@ -23,7 +23,7 @@ print("3.Multiply")
 print("4.Divide")
 
 while True:
-     ch = input("Enter choice(1/2/3/4): ")
+     choice = input("Enter choice(1/2/3/4): ")
 
 
 
